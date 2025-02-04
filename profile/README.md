@@ -1,12 +1,14 @@
-## Hi there 👋
+# Дисципліна "Гнучкі методології управління IT-проєктами"
 
-<!--
+Викладач: Годовиченко Микола Анатолійович<br>
+email: hodovychenko@op.edu.ua
 
-**Here are some ideas to get you started:**
+## Матеріали для студентів заочної та післядипломної форми освіти:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Конспект лекцій
+- Завдання на лабораторні роботи
+- Завдання на контрольну роботу
+
+Додаткова рекомендована література:
+
+1. [Настанова до зводу знань з управління проєктами "НАСТАНОВА PMBOK" (7-е видання та стандарт з управління проєктами)](https://res2.weblium.site/res/65b233680835c5000feec557/65ca57d1d6ab06000f91bd67)
