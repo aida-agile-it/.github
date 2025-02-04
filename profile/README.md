@@ -5,9 +5,9 @@ email: hodovychenko@op.edu.ua
 
 ## Матеріали для студентів заочної та післядипломної форми освіти:
 
-- Конспект лекцій
-- Завдання на лабораторні роботи
-- Завдання на контрольну роботу
+- [Конспект лекцій](https://github.com/aida-agile-it/.github/blob/main/%D0%93%D0%BD%D1%83%D1%87%D0%BA%D1%96_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97_%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.pdf)
+- [Завдання на лабораторні роботи](https://github.com/aida-agile-it/.github/blob/main/%D0%93%D0%BD%D1%83%D1%87%D0%BA%D1%96_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97_%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96_%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8.pdf)
+- [Завдання на контрольну роботу](https://github.com/aida-agile-it/.github/blob/main/%D0%93%D0%BD%D1%83%D1%87%D0%BA%D1%96_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0_%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0.pdf)
 
 Додаткова рекомендована література:
 
